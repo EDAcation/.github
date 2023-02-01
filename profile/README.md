@@ -12,7 +12,7 @@ EDAcation consists of several open source projects:
 - [nextpnr-viewer](https://github.com/EDAcation/nextpnr-viewer) - FPGA viewer for nextpnr
 
 ## Used projects
-EDAcation relies several open source projects including but not limited to:
+EDAcation relies on several open source projects including but not limited to:
 
 - [Yosys](https://github.com/YosysHQ/yosys) - RTL synthesis
 - [nextpnr](https://github.com/YosysHQ/nextpnr) - FPGA place and route
