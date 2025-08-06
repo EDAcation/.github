@@ -7,16 +7,16 @@ EDAcation consists of several open source projects:
 
 - [vscode-edacation](https://github.com/EDAcation/vscode-edacation) - VS Code extension
 - [edacation](https://github.com/EDAcation/edacation) - Libary and CLI
-- [yosys.js](https://github.com/EDAcation/yosys.js) - WebAssembly version of Yosys
-- [nextpnr.js](https://github.com/EDAcation/nextpnr.js) - WebAssembly version of nextpnr
-- [nextpnr-viewer](https://github.com/EDAcation/nextpnr-viewer) - FPGA viewer for nextpnr
+- [nextpnr-viewer](https://github.com/EDAcation/nextpnr-viewer) - FPGA viewer for Nextpnr
+- [native-fpga-tools](https://github.com/EDAcation/native-fpga-tools) - Minimal, native FPGA tool bundles
 
 ## Dependencies
-EDAcation relies on several open source projects including but not limited to:
+EDAcation relies on several open source projects, including but not limited to:
 
 - [Yosys](https://github.com/YosysHQ/yosys) - RTL synthesis
-- [nextpnr](https://github.com/YosysHQ/nextpnr) - FPGA place and route
+- [Nextpnr](https://github.com/YosysHQ/nextpnr) - FPGA place and route
 - [DigitalJS](https://github.com/tilk/digitaljs) - Digital circuit simulator
+- [Icarus Verilog](https://github.com/steveicarus/iverilog) - Waveform generation
 
 ## Related projects
 If you like EDAcation, you might also also want to check out these open source projects:
